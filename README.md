@@ -7,3 +7,4 @@ Samples expected from sequencing core 2018-02-18
 We downloaded the B73 reference genome (refgen3) on 2018-02-18 from
 http://maizegdb.org into `/share/data/refgen3/`.
 
+\nAdapter file: adapters.fa
